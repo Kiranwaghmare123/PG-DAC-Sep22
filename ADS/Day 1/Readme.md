@@ -24,109 +24,107 @@ Date:27-10-2022
   
 Data:collection of raw facts.
 
-Algorithm:computational process, step by step instructions
+	Algorithm:computational process, step by step instructions
 
-Program:Implementation of algorithm
+	Program:Implementation of algorithm
 
-Data structure:Oraganization of data needed to solve the problem.
+	Data structure:Oraganization of data needed to solve the problem.
 
-	<br>
+	
   
 Algorithm:set of rules required to perform calculations.
 
-	<br>
-  
 # Characteristics of algorithm:
 -------------------------------
 
-  -Input
-  
-  -Output
-  
-  -Unambiguity
-  
-  -Finite
-  
-  -Effective
-  
-  -Language independent
+	  -Input
+
+	  -Output
+
+	  -Unambiguity
+
+	  -Finite
+
+	  -Effective
+
+	  -Language independent
 
 
-  -scalability of algorithm
-  
-  -Performance of algorithm
+	  -scalability of algorithm
+
+	  -Performance of algorithm
 
 
 # Algorithm stategies:
 --------------------
 
-  -Brute force
-  
-  -Divide and conquer
-  
-  -Decrese and conquer
-  
-  -Transform and conquer
-  
-  -Greedy approach
-  
-  -Dynamic programming
-  
-  -Backtracking
-  
-    -branch and bound
-    
-    -recursion
-    
-  -Space and time trade offs
+	  -Brute force
+
+	  -Divide and conquer
+
+	  -Decrese and conquer
+
+	  -Transform and conquer
+
+	  -Greedy approach
+
+	  -Dynamic programming
+
+	  -Backtracking
+
+	    -branch and bound
+
+	    -recursion
+
+	  -Space and time trade offs
+	  
 
 # Classification of Data Strucutre:
 ----------------------------------
 
-  1.Primitive 
-  
-  2.Non-primitive
+	  1.Primitive 
+
+	  2.Non-primitive
 
 
-	<br>
+	
 
 
 
 Data Structure:
 ----------------
-A data structure is a data oragnization, management and storage format that enables efficient access and modification.
+	A data structure is a data oragnization, management and storage format that enables efficient access and modification.
 
 -2 ways for Data structure	
 
 		-Logical view / Abstract view
     
 		-Physical view / Implementation view
-	<br>
-
+	
 # Abstract Data Type: (ADT)
 
--objects whose behaviour is defined by a set of value and set of operations.
+	-objects whose behaviour is defined by a set of value and set of operations.
 
-	<br>
+	
 # Recursion:
 
-  void fun()
-  {
-    -----
-    -----
-    fun();
-    ------
-    -----
-  }
+	  void fun()
+	  {
+	    -----
+	    -----
+	    fun();
+	    ------
+	    -----
+	  }
 
-  int main()
-  {
-    -----
-    ----
-    fun();
-    -----
-    ---
-  }
+	  int main()
+	  {
+	    -----
+	    ----
+	    fun();
+	    -----
+	    ---
+	  }
   
 2 types of Recursion:
 
@@ -157,38 +155,38 @@ A data structure is a data oragnization, management and storage format that enab
       sun1();
       ------
     }
-	<br>
+	
   
 # Factorial :
-5!
+	5!
 
-5*4!
+	5*4!
 
-5*4*3!
+	5*4*3!
 
-5*4*3*2!
+	5*4*3*2!
 
-5*4*3*2*1!
+	5*4*3*2*1!
 
-5*4*3*2*1*0!
+	5*4*3*2*1*0!
 
-5*4*3*2*1*1
+	5*4*3*2*1*1
 
 Fibonacci series:
 
-1 1 2 3 5 8 13 21....
+	1 1 2 3 5 8 13 21....
 
 
 							fib(6)
 							
-=						fib(5) + fib(4)
+						fib(5) + fib(4)
 
-=					fib(4)+fib(3) + fib(3)+fib(2)
+					fib(4)+fib(3) + fib(3)+fib(2)
 
-=			fib(3)+fib(2) + fib(2)+fib(1) + fib(2)+fib(1) + fib(1)+ 1
+			fib(3)+fib(2) + fib(2)+fib(1) + fib(2)+fib(1) + fib(1)+ 1
 
 
-	<br>
+
   
 Homework:
 ----------
