@@ -8,8 +8,7 @@ Date:27-10-2022
     
     -Recursion
     
-	<br>
-  
+	  
 # Computational thinking: Real life problem solving
 
     -Decomposition
@@ -20,8 +19,7 @@ Date:27-10-2022
     
     -Algorithm design
 
-	<br>
-  
+	
 Data:collection of raw facts.
 
 	Algorithm:computational process, step by step instructions
@@ -85,11 +83,6 @@ Algorithm:set of rules required to perform calculations.
 	  1.Primitive 
 
 	  2.Non-primitive
-
-
-	
-
-
 
 Data Structure:
 ----------------
