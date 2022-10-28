@@ -5,36 +5,28 @@ Date:28-10-2022
 		-Recursion
 		-Arrays
 
-	
-AB
+# String Permutations:
+------------------------
+![image](https://user-images.githubusercontent.com/72081819/198546968-cb4bf515-f2af-4c7f-a5ff-ecfbaa9ce132.png)
 
-BA
+	AB
+	BA
 
------ABC
+	-----ABC
+	A(BC)
+	ACB
+	BAC
+	BCA
+	CAB
+	CBA
 
-A(BC)
+	-----
 
-ACB
-
-BAC
-
-BCA
-
-CAB
-
-CBA
-
------
-
-ABCD
-
-A(B(C(D)))
-
-B(A(C(D)))
-
-C(A(B(D)))
-
-D(A(B(C)))
+	ABCD
+	A(B(C(D)))
+	B(A(C(D)))
+	C(A(B(D)))
+	D(A(B(C)))
 
 
 # Homework:
@@ -44,28 +36,9 @@ D(A(B(C)))
 # Types of recursive:
 --------------------
 	1. Tail recursion:
-
-		void fun(int n)
-		{
-			if(n<0)
-					SOP(n);
-			else
-				fun(n-1);//recursive function call
-		}
-
 	2. Head recursion
-	void fun(int n)
-		{
-			if(n<0)
-					SOP(n);
-			else
-				fun(n-1);//recursive function call
-				SOP("hhjkjkd");
-				SOP("hhjkjkd");
-				SOP("hhjkjkd");
-				SOP("hhjkjkd");
-		}
-		
+
+			
 # Linear & Non-linear:
 ----------------------
 	Terminologies:
