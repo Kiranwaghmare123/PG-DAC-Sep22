@@ -7,7 +7,7 @@ Date:28-10-2022
 
 # String Permutations:
 ------------------------
-![image](https://user-images.githubusercontent.com/72081819/198546968-cb4bf515-f2af-4c7f-a5ff-ecfbaa9ce132.png)
+![image](https://user-images.githubusercontent.com/72081819/198547425-fcf585af-f298-4280-ad6f-4185872f1c78.png)
 
 	AB
 	BA
