@@ -27,7 +27,7 @@ class Array1
 		
 		//search
 		int key=66;
-		for(i=0;i<=9;i++)
+		for(i=0;i<=n;i++)
 		{
 			if(a1[i] == key)
 				break;
@@ -38,26 +38,27 @@ class Array1
 				System.out.println("Not Found");
 		
 		//display
-		for(i=0;i<=9;i++)
+		for(i=0;i<=n;i++)
 		{
 			System.out.print(a1[i]+" ");
 		}
 		System.out.println();
 		//delete
 		key=55;
-		for(i=0;i<=9;i++)
+		for(i=0;i<=n;i++)
 		{
 			if(a1[i] == key)
 				break;
 		}
-		for(int k=i;k<=9;k++)
+		for(int k=i;k<=n;k++)
 		{
 			a1[k]=a1[k+1];
-			n--;
+		
 					
 		}
+			n--;
 		//display
-		for(i=0;i<9;i++)
+		for(i=0;i<n;i++)
 		{
 			System.out.print(a1[i]+" ");
 		}
