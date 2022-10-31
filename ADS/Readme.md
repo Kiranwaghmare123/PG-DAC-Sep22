@@ -2,7 +2,7 @@
 # Algorithms and Data Structures:
 
 
-      Day 1 : introc=duction & Recursion
+      Day 1 : introduction & Recursion
 
       Day 2 : Array, Searching & Sorting
 
