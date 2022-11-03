@@ -5,6 +5,8 @@ Day 8: Algorithms & Data Structures
 
         -Doubly Linked List
         -Tree
+	
+Print DLL:
 
       static void display(Node n)
         {
@@ -26,7 +28,8 @@ Day 8: Algorithms & Data Structures
           }
         }
 	
-	
+Insert at end:
+
       void append(int new_data)
       {
         Node new_Node = new Node(new_data);
@@ -47,6 +50,7 @@ Day 8: Algorithms & Data Structures
 
       }
 
+Insert in between:
 
       void insertAfter(int new_data, Node temp)
       {
@@ -60,6 +64,8 @@ Day 8: Algorithms & Data Structures
 
 
       }
+
+Deletion:
 
     void deleteNode(Node temp)
     {
